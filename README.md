@@ -8,29 +8,28 @@
 
 
 ### [](https://github.com/ivsmolenskiy/public#languages-and-tools) Languages and Tools:
-[<img src="https://github.com/ivsmolenskiy/public/assets/150680837/8c3c13ef-bd88-4a54-818b-4eba649a8036" alt="Python" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/ccad8951-a2f7-477c-8451-49eee87c9628" alt="Python" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/94034e63-4b02-4a4d-9cf9-4dbd948bb494" alt="SQL" height="42"/> 
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/09eec2e7-2b8f-4cd5-a0de-b0771a8cd486" alt="SQL" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/c248ea66-5b30-4e96-a9f7-4acaa454a129" alt="Jupyter Notebook" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/ac2e6ed1-2da1-4e14-be11-239755e98898" alt="Jupyter Notebook" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/505b25ca-cac0-4809-a22f-d086f50858f3" alt="MS AZURE" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/97a75d76-9f8c-4486-a3dd-455c56cbb61c" alt="MS AZURE" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/50119db1-891b-4823-ac0a-256bbab90bcb" alt="Power BI" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/8e469ad2-5614-41a9-83b8-48056436bab2" alt="Power BI" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/50c3453d-ed0b-4cb8-827c-662a4a25c281" alt="MS Fabric" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/e556ee40-c824-4710-b9ce-133e4ea0f90b" alt="MS Fabric" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/3d5e350f-f5e8-4f1e-b741-d666ddf06ed7" alt="Tableau" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/be082254-2fc2-4659-8ee8-3ea7413f561e" alt="Tableau" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 &nbsp;
-<img src="https://github.com/ivsmolenskiy/public/assets/150680837/8b10e5b9-54a9-4cc9-bcf3-074300b56a19" alt="Git" height="42"/>
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/a46fd72a-4775-4757-bc05-dff8d9ddc9f5" alt="Git" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
 
 
 ### [](https://github.com/ivsmolenskiy/public#connect-with-me) Connect with me:
-[<img src="https://github.com/ivsmolenskiy/public/assets/150680837/f99189bc-ea06-4c58-80e5-24c646fcbc8a" alt="LinkedIn" height="42"/>](https://www.linkedin.com/in/ilya-smolenskiy/)
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/5c3bec35-2645-441c-8c26-5bad336ce3db" alt="LinkedIn" height="42"/>](https://www.linkedin.com/in/ilya-smolenskiy/)
 &nbsp;
-[<img src="https://github.com/ivsmolenskiy/public/assets/150680837/157aeb95-eba6-4242-b96a-774aa52216a6" alt="Telegram" height="42"/>](https://t.me/ivs111)
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/c05d6d15-0bda-48af-a3bd-a6a628af1f34" alt="Telegram" height="42"/>](https://t.me/ivs111)
 &nbsp;
-[<img src="https://github.com/ivsmolenskiy/public/assets/150680837/2bd6b44c-b205-4aca-9351-dd8c05f45315" alt="Mail" height="42"/>](mailto:ivsmolenskiy@gmail.com?subject=From%20ivsmolenskiy%20Github%20page)
+[<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/f29530e1-6635-44e9-8da3-8363088283f2" alt="Mail" height="42"/>](mailto:ivsmolenskiy@gmail.com?subject=From%20ivsmolenskiy%20Github%20page)
 
-
-## May the Force be with you 🦾
+### May the Force be with you 🦾
