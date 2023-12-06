@@ -1,6 +1,6 @@
 ## Hi, I'm Ilya Smolenskiy - welcome to my Github 🖖
 
-### I'm a Data Analyst with 6+ years of experience under his belt
+### I'm a Data Analyst with 6+ years of experience under my belt
 
 🏢 Currently working remotely at [Rent Ready](https://rentready.com/) (USA, North Carolina)<br>
 🌏 Based in Thailand, considering to relocate closer to the Europe<br>
