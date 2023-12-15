@@ -1,11 +1,12 @@
-## Hi, I'm Ilya Smolenskiy - welcome to my Github 🖖
+## Hi there, I'm Ilya Smolenskiy - welcome to my GitHub 🖖
 
-### I'm a Data Analyst with 6+ years of experience under my belt
+### I'm a Data Analyst with 6+ years of experience:<br>Statistical analysis, Data Visualization (BI), Machine learning, Process mining
 
-🏢 Currently working remotely at [Rent Ready](https://rentready.com/) (USA, North Carolina)<br>
-🌏 Based in Thailand, considering to relocate closer to the Europe<br>
-🎓 Continuous learning and jogging 🏃‍♂️
+👨‍💻 Currently working remotely at [Rent Ready](https://rentready.com/) (USA, North Carolina) 🏢<br>
+🌏 Based in Thailand, considering to relocate closer to the Europe 🌍<br>
+🎓 Continuous learner and jogger 🏃‍♂️
 
+### Check out my [work portfolio](https://github.com/ivsmolenskiy/portfolio) on Data Analysis
 
 ### [](https://github.com/ivsmolenskiy/public#languages-and-tools) Languages and Tools:
 [<img src="https://github.com/ivsmolenskiy/ivsmolenskiy/assets/150680837/ccad8951-a2f7-477c-8451-49eee87c9628" alt="Python" height="42"/>](https://github.com/ivsmolenskiy/public#languages-and-tools)
